@@ -8,6 +8,7 @@ EcoFuturo es una aplicación web educativa y de gestión ambiental desarrollada 
 ## Integrantes
 - Andrés Felipe Usero Lima
 - David Santiago Ramirez Bello
+- Juan Camilo Navarro Duarte 
 
 ## Institución
 Colegio Técnico Palermo I.E.D.
